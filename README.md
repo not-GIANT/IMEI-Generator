@@ -45,13 +45,13 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/main_dark.png" alt="Dark Mode Interface" width="800">
+  <img width="852" height="689" alt="Dark" src="https://github.com/user-attachments/assets/c8c023d2-9980-4880-a7f8-b26edf68ed1b" />
   <br>
   <em>Figure 1: Cyber Dark Theme - Modern, high-contrast interface for focused work.</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/main_light.png" alt="Light Mode Interface" width="800">
+  <img width="852" height="689" alt="Light" src="https://github.com/user-attachments/assets/0830f8e7-268f-412b-8cb3-e26516be6408" />
   <br>
   <em>Figure 2: Cream & Mocha Theme - Soft, elegant aesthetic for comfortable day-time use.</em>
 </p>
@@ -87,6 +87,6 @@ Download the latest `imei_tool.exe` from the [Releases](https://github.com/not-G
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
-**GIANT** - *Lead Developer* - [GitHub Profile](https://github.com/not-GIANT)
+**Coded with ❤️ by GIANT**
 
----
+If you find this tool useful, feel free to ⭐ the repository!
