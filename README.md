@@ -2,7 +2,7 @@
   <img src="icon.png" alt="IMEI Generator Pro Icon" width="200" height="200">
 </p>
 
-<h1 align="center">IMEI Generator Pro</h1>
+<h1 align="center">IMEI Generator</h1>
 
 <p align="center">
   <strong>A professional-grade, high-performance desktop utility for generating, validating, and managing IMEI numbers.</strong>
