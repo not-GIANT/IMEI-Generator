@@ -1,10 +1,35 @@
-# 📱 IMEI Generator
+<p align="center">
+  <img src="icon.png" alt="IMEI Generator Pro Icon" width="128" height="128">
+</p>
 
-A professional-grade, high-performance desktop utility for generating, validating, and managing IMEI (International Mobile Equipment Identity) numbers. Built with a fully custom, modern Tkinter framework that delivers a sleek, responsive experience with **zero external dependencies**.
+<h1 align="center">IMEI Generator Pro</h1>
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
+<p align="center">
+  <strong>A professional-grade, high-performance desktop utility for generating, validating, and managing IMEI numbers.</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows" alt="Platform">
+  <img src="https://img.shields.io/badge/UI-Custom_Tkinter-ff69b4?style=for-the-badge" alt="UI">
+</p>
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/main_dark.png" alt="Dark Mode Interface" width="800">
+  <br>
+  <em>Figure 1: Cyber Dark Theme - Modern, high-contrast interface for focused work.</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/main_light.png" alt="Light Mode Interface" width="800">
+  <br>
+  <em>Figure 2: Cream & Mocha Theme - Soft, elegant aesthetic for comfortable day-time use.</em>
+</p>
 
 ---
 
@@ -12,53 +37,49 @@ A professional-grade, high-performance desktop utility for generating, validatin
 
 ### 📡 Advanced Generation
 - **Pattern & Mask Mode:** Use `X` as a wildcard (e.g., `35693803XXXXXX`) to generate IMEIs for specific ranges.
-- **TAC-Based Generation:** Generate IMEIs using the 8-digit Type Allocation Code.
+- **TAC-Based Generation:** Generate IMEIs using the 8-digit Type Allocation Code (TAC).
 - **Sequential & Random Modes:** Toggle between predictable sequences or randomized batches.
-- **Collision Handling:** Smart logic to ensure unique numbers within a single batch.
+- **Collision Handling:** Advanced logic ensures unique numbers within a single batch.
 
 ### 🔍 Batch Validation
-- **Luhn Algorithm:** Rigorous checksum validation using industry-standard formulas.
-- **Duplicate Detection:** Real-time identification of duplicate IMEIs in large lists.
-- **Instant Stats:** Live counters for Total, Valid, Invalid, and Duplicate entries.
+- **Luhn Algorithm:** Rigorous checksum validation using ISO/IEC 7812-1 standard formulas.
+- **Duplicate Detection:** Real-time identification and flagging of duplicate IMEIs in large lists.
+- **Live Analytics:** Instant counters for Total, Valid, Invalid, and Duplicate entries.
 
 ### 🎨 Premium User Experience
-- **Dynamic Theming:** Instant switching between a sleek **Cyber Dark** mode and a warm **Cream & Mocha** light theme.
-- **Threaded Execution:** Background processing ensures the UI never freezes, even when processing thousands of entries.
-- **Custom UI Components:** Hand-crafted rounded cards, glow buttons, and hover tooltips for a modern "non-native" look.
+- **Dynamic Theming:** Seamlessly switch between **Cyber Dark** and **Cream & Mocha** themes.
+- **Zero Freeze UI:** Multi-threaded execution ensures the interface remains responsive during heavy batch processing.
+- **Custom Widgets:** Hand-crafted rounded cards, glow buttons, and hover tooltips.
 
 ### 💾 Data Management
 - **Smart Import:** Load IMEIs directly from `.txt` or `.csv` files.
-- **Multi-Format Export:** Save your results to `.txt`, `.csv` (Excel ready), or `.json`.
-- **Session History:** A built-in log to track your activity across the current session.
+- **Multi-Format Export:** Save results to `.txt`, `.csv` (Excel ready), or `.json`.
+- **Session Tracking:** Dedicated history log to monitor all generation and validation activity.
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Installation & Usage
 
-### Prerequisites
-- Python 3.8 or higher.
-- No external libraries required (uses only standard library + Tkinter).
+### Option 1: Standalone Executable (Recommended)
+Download the latest `imei_tool.exe` from the [Releases](https://github.com/not-GIANT/IMEI-Generator/releases) page. No Python installation required!
 
-### Installation
-1. Clone the repository:
+### Option 2: Run from Source
+1. **Clone the Repo:**
    ```bash
    git clone https://github.com/not-GIANT/IMEI-Generator.git
    ```
-2. Run the application:
+2. **Launch:**
    ```bash
    python imei_tool.py
    ```
 
-### Standalone Executable
-You can also find the pre-compiled `.exe` in the [Releases](https://github.com/not-GIANT/IMEI-Generator/releases) section (no Python installation required).
-
 ---
 
 ## 🛠 Tech Stack
-- **Language:** Python 3.13
-- **GUI Framework:** Tkinter (Customized)
-- **Algorithms:** Luhn (ISO/IEC 7812-1)
-- **Packaging:** PyInstaller
+- **Engine:** Python 3.13
+- **GUI:** Custom Tkinter Framework
+- **Security:** Luhn Algorithm (ISO/IEC 7812-1)
+- **Deployment:** PyInstaller
 
 ---
 
