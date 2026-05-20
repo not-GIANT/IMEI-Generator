@@ -1,4 +1,4 @@
-# 📱 IMEI Generator Pro
+# 📱 IMEI Generator
 
 A professional-grade, high-performance desktop utility for generating, validating, and managing IMEI (International Mobile Equipment Identity) numbers. Built with a fully custom, modern Tkinter framework that delivers a sleek, responsive experience with **zero external dependencies**.
 
