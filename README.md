@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="IMEI Generator Pro Icon" width="128" height="128">
+  <img src="icon.png" alt="IMEI Generator Pro Icon" width="200" height="200">
 </p>
 
 <h1 align="center">IMEI Generator Pro</h1>
@@ -13,22 +13,6 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows" alt="Platform">
   <img src="https://img.shields.io/badge/UI-Custom_Tkinter-ff69b4?style=for-the-badge" alt="UI">
-</p>
-
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img width="852" height="689" alt="Dark" src="https://github.com/user-attachments/assets/d342120f-cf21-49e2-9e53-e52c1cae74fc" />
-  <br>
-  <em>Figure 1: Cyber Dark Theme - Modern, high-contrast interface for focused work.</em>
-</p>
-
-<p align="center">
-  <img width="852" height="689" alt="Light" src="https://github.com/user-attachments/assets/e5092d57-d2aa-456f-8ba7-2c63904b9a63" />
-  <br>
-  <em>Figure 2: Cream & Mocha Theme - Soft, elegant aesthetic for comfortable day-time use.</em>
 </p>
 
 ---
@@ -55,6 +39,22 @@
 - **Smart Import:** Load IMEIs directly from `.txt` or `.csv` files.
 - **Multi-Format Export:** Save results to `.txt`, `.csv` (Excel ready), or `.json`.
 - **Session Tracking:** Dedicated history log to monitor all generation and validation activity.
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/main_dark.png" alt="Dark Mode Interface" width="800">
+  <br>
+  <em>Figure 1: Cyber Dark Theme - Modern, high-contrast interface for focused work.</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/main_light.png" alt="Light Mode Interface" width="800">
+  <br>
+  <em>Figure 2: Cream & Mocha Theme - Soft, elegant aesthetic for comfortable day-time use.</em>
+</p>
 
 ---
 
@@ -87,6 +87,6 @@ Download the latest `imei_tool.exe` from the [Releases](https://github.com/not-G
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
-**Coded with ❤️ by GIANT**
+**GIANT** - *Lead Developer* - [GitHub Profile](https://github.com/not-GIANT)
 
-If you find this tool useful, feel free to ⭐ the repository!
+---
