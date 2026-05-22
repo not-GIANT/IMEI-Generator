@@ -64,7 +64,7 @@ IMEI Generator Pro is a fully-featured desktop tool for generating and validatin
 
 | Cyber Dark | Cream & Mocha |
 |:---:|:---:|
-| ![Dark theme](screenshots/dark.png) | ![Light theme](screenshots/light.png) |
+| ![Dark theme](screenshots/Dark.png) | ![Light theme](screenshots/Light.png) |
 | *High-contrast, focused workflow* | *Soft tones for day-time use* |
 
 </div>
