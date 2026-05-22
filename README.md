@@ -118,7 +118,7 @@ IMEI-Generator/
 
 ## 🗺️ Roadmap
 
-- [ ] Linux / macOS support
+- [ ] Linux support
 - [ ] CLI mode for scripting and CI pipelines
 - [ ] IMEI database lookup integration
 - [ ] Custom TAC database import
